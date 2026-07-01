@@ -4,6 +4,7 @@ Bu program sizin python kodlarını tek bir programda toplamanızı sağlar.
 
 # Sorumluluk Reddi (Disclaimer)
 ### Yasal Uyarı: Bu proje tamamen eğitim ve bilgilendirme amaçlıdır.
+### Kullanım koşulları listesi.
 
 - Sorumluluk: Bu programın kullanımı tamamen kullanıcının sorumluluğundadır. Yazılımın kullanımı sonucunda oluşabilecek herhangi bir veri kaybı, sistem arızası veya diğer teknik sorunlardan om3rrxh sorumlu tutulamaz.
 
