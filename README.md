@@ -2,12 +2,13 @@
 
 Bu program sizin python kodlarını tek bir programda toplamanızı sağlar.
 
-# Kullanım şartları:
-- Programın içindeki kodların nasıl kullandığından kullanıcı sorumludur.
-- Programdaki kodları farklı yerlerde kullanmak , satış yapmak veya dağıtmak kesinlikle yasaktır.
-- Program tamamen om3rrxh'e aittir.
-- Programdaki kodların hepsi om3rrxh'ye aittir kullanımından kullanıc sorumludur.
-- Programdaki kodların yasadışı şekilde kullanılmasından tamamen kullanıcı sorumludur.
-- Programdaki kodlar eğitim amaçlıdır yasadışı kullanımından kullanıcı sorumludur.
-- Programın içindeki tüm kodlar kullanıcı sorumluluğundadır.
-- Programın içindeki kodların oluşturduğu zararlardan om3rrxh sorumlu değildir.
+Sorumluluk Reddi (Disclaimer)
+Yasal Uyarı: Bu proje tamamen eğitim ve bilgilendirme amaçlıdır.
+
+Sorumluluk: Bu programın kullanımı tamamen kullanıcının sorumluluğundadır. Yazılımın kullanımı sonucunda oluşabilecek herhangi bir veri kaybı, sistem arızası veya diğer teknik sorunlardan om3rrxh sorumlu tutulamaz.
+
+Yasadışı Kullanım: Yazılımın yasadışı veya kötü niyetli amaçlarla kullanılmasından doğacak her türlü hukuki sonuçtan kullanıcı sorumludur. Bu araç sadece etik ve eğitim amaçlıdır.
+
+Telif ve Dağıtım: Programdaki tüm kodlar om3rrxh'e aittir. İzinsiz şekilde kodların kopyalanması, değiştirilmesi, dağıtılması veya ticari amaçla satılması kesinlikle yasaktır.
+
+Kabul: Bu yazılımı indirerek ve kullanarak, yukarıdaki şartları ve sorumlulukların tamamen size ait olduğunu kabul etmiş sayılırsınız.
